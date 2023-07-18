@@ -15,4 +15,4 @@ jobs:
     - uses: actions/checkout@v3
 
     - name: Build and Deploy React app to GitHub Pages
-      uses: cristianlara/react-deployment-gh-pages
+      uses: cristianlara/react-deployment-gh-pages@main
