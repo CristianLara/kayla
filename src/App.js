@@ -1,15 +1,22 @@
 import './App.css';
-import Person from "./components/person";
+import AnnoyingDog from './components/annoyingDog';
+import Dogs from './components/dogs';
+// import Person from "./components/person";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div><span>Hi Kayla </span><span className='App-logo'>👋</span></div>
+        <AnnoyingDog />
         <div>
+          <span>Hi Kayla </span>
+          {/* <span className='App-logo'>👋</span> */}
+        </div>
+        {/* <div>
           <Person who="lyra"/>
           <Person who="ethan"/>
-        </div>
+        </div> */}
+        <Dogs />
       </header>
     </div>
   );
