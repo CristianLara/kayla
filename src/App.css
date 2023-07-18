@@ -51,61 +51,46 @@
 .lyra {
     background-image: url(lyra.png);
     background-repeat: no-repeat;
+    width: 27px;
+    height: 26px;
 }
 
 .lyra-down-0 {
-    width: 27px;
-    height: 26px;
     background-position: -382px -370px;
 }
 
 .lyra-down-1 {
-    width: 27px;
-    height: 26px;
     background-position: -411px -370px;
 }
 
 .lyra-down-2 {
-    width: 27px;
-    height: 26px;
     background-position: -440px -370px;
 }
 
 .lyra-down-3 {
-    width: 27px;
-    height: 26px;
     background-position: -411px -370px;
 }
-
-
-
 
 
 .ethan {
     background-image: url(ethan.png);
     background-repeat: no-repeat;
+    width: 17px;
+    height: 26px;
 }
 
 .ethan-down-0 {
-    width: 17px;
-    height: 26px;
     background-position: -337px -348px;
 }
 
 .ethan-down-1 {
-    width: 17px;
-    height: 26px;
     background-position: -356px -348px;
 }
 
 .ethan-down-2 {
-    width: 17px;
-    height: 26px;
     background-position: -375px -348px;
 }
 
 .ethan-down-3 {
-    width: 17px;
-    height: 26px;
     background-position: -356px -348px;
 }
