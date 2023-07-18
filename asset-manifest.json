@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kayla/static/css/main.287f8bb3.css",
+    "main.js": "/kayla/static/js/main.855b9581.js",
+    "static/js/787.f74ec19b.chunk.js": "/kayla/static/js/787.f74ec19b.chunk.js",
+    "static/media/lyra.png": "/kayla/static/media/lyra.0e7f1509dfddf5a7b872.png",
+    "static/media/ethan.png": "/kayla/static/media/ethan.7ba47c437083f1aa97af.png",
+    "index.html": "/kayla/index.html",
+    "main.287f8bb3.css.map": "/kayla/static/css/main.287f8bb3.css.map",
+    "main.855b9581.js.map": "/kayla/static/js/main.855b9581.js.map",
+    "787.f74ec19b.chunk.js.map": "/kayla/static/js/787.f74ec19b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.287f8bb3.css",
+    "static/js/main.855b9581.js"
+  ]
+}
