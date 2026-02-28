@@ -1,6 +1,7 @@
 import './App.css';
 import AnnoyingDog from './components/annoyingDog';
 import Dogs from './components/dogs';
+import { Analytics } from '@vercel/analytics/react';
 // import Person from "./components/person";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         </div> */}
         <Dogs />
       </header>
+      <Analytics />
     </div>
   );
 }
